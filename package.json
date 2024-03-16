@@ -1,0 +1,24 @@
+{
+  "name": "tea-sekiro-shadows",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agengsetyo/tea-sekiro-shadows.git"
+  },
+  "author": "agengsetyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agengsetyo/tea-sekiro-shadows/issues"
+  },
+  "homepage": "https://github.com/agengsetyo/tea-sekiro-shadows#readme",
+  "dependencies": {
+    "tea-bool": "^1.1.1",
+    "tea-helper-leap-year": "^1.0.1",
+    "tea-helper-strings": "^1.0.1"
+  }
+}
